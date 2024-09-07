@@ -1,7 +1,7 @@
-### Hi there 👋
+I'm henry aka milodevs or just milo.. i do web and game dev with majoring in frameworks like svelte recently (svelte is amazing), nextjs and vue and for game development i use unity.
 
 <!--
-**MiloDevs/MiloDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MiloDevs/MiloDevs** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
